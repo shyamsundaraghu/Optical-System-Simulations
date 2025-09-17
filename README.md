@@ -9,10 +9,12 @@ This repository contains MATLAB implementations for analyzing and simulating key
 - **Spectrum Analysis** – Study the spectral response of optical signals.  
 - **Comparative Studies** – Compare system performance across different configurations.  
 
-## Repository Structure  
-├── Apodization/ % MATLAB codes for apodization functions
-├── BER/ % BER calculation and plots
-├── Reflectivity/ % Reflectivity modeling
-├── Spectrum/ % Spectrum evaluation
-├── Comparison/ % Comparative analysis scripts
-└── README.md
+## Requirements  
+- MATLAB R2021a or later (earlier versions may also work).  
+- Signal Processing Toolbox (for certain apodization and spectrum functions).  
+
+## Usage  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/YourUsername/MATLAB-Optical-Apodization-BER-Analysis.git
+
