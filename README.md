@@ -10,3 +10,9 @@ This repository contains MATLAB implementations for analyzing and simulating key
 - **Comparative Studies** – Compare system performance across different configurations.  
 
 ## Repository Structure  
+├── Apodization/ % MATLAB codes for apodization functions
+├── BER/ % BER calculation and plots
+├── Reflectivity/ % Reflectivity modeling
+├── Spectrum/ % Spectrum evaluation
+├── Comparison/ % Comparative analysis scripts
+└── README.md
